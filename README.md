@@ -1,1 +1,4 @@
 # All-Media-Deepfake-Detection-and-Data-Security
+
+## ABSTRACT:
+This project presents a deepfake detection system capable of identifying manipulated content across multiple media types, including images, videos, text, and personally identifiable information (PII). The objective is to enhance digital security and trust by combating misinformation, fraud, and privacy violations. The proposed solution leverages pre-trained AI models in computer vision and natural language processing to analyse and classify data, while encryption techniques such as AES-128 are employed to secure sensitive user information. Experiments were conducted on publicly available datasets to evaluate detection accuracy, and results indicate a high success rate in distinguishing authentic content from synthetic manipulations. This project demonstrates the potential of integrating multi-modal deepfake detection with strong data protection measures, paving the way for safer digital interactions
